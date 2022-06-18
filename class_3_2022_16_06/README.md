@@ -1,0 +1,1 @@
+# Practice Struct, Impl Generic
